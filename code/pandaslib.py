@@ -4,8 +4,8 @@ def clean_currency(item: str) -> float:
     '''
     remove anything from the item that prevents it from being converted to a float
     '''    
-    clean = float(str(item).replace('$','').replace(',',''))
-    return clean
+    cleanFloat = float(str(item).replace('$','').replace(',',''))
+    return cleanFloat
 
 def extract_year_mdy(timestamp):
     '''
