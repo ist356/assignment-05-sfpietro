@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Sofia
+Sudent Email:  Sfpietro@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+Think I am getting the hang of pandas now. This one was pretty challenging but I think I got it
